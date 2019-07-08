@@ -1,0 +1,45 @@
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.deps.json
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.runtimeconfig.json
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.runtimeconfig.dev.json
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.dll
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.csprojAssemblyReference.cache
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.AssemblyInfoInputs.cache
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.AssemblyInfo.cs
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.pdb
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.dll
+C:\Users\Nupur\Documents\Work\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.pdb
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.deps.json
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.runtimeconfig.json
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.runtimeconfig.dev.json
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.dll
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.pdb
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.csprojAssemblyReference.cache
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.AssemblyInfoInputs.cache
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.AssemblyInfo.cs
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.dll
+C:\Users\sudha\Desktop\MVP studios\Talent-Project\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.pdb
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.dll
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\NUnit3.TestAdapter.pdb
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\nunit.engine.netstandard.dll
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\Mono.Cecil.dll
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.deps.json
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.runtimeconfig.json
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.runtimeconfig.dev.json
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.dll
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\bin\Debug\netcoreapp2.1\TalentFrameWork.pdb
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.csprojAssemblyReference.cache
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.csproj.CoreCompileInputs.cache
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.AssemblyInfoInputs.cache
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.AssemblyInfo.cs
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.dll
+C:\Users\sudha\Desktop\MyProjects\VS\ProjectTalent\ProjectTalent\TalentFrameWork\obj\Debug\netcoreapp2.1\TalentFrameWork.pdb
